@@ -1,4 +1,4 @@
-# NIKE Stock Casestudy #ComebackNike
+# NIKE Stocks Case study #ComebackNike
 
 Stock market Analysis is used to inform investment decisions and help investors informed decisions about buying or selling stocks. 
 Also it could be used to understand why the stocks are performing low and what are the events could have affected it and BI analyst could give a action plan for given situations.
