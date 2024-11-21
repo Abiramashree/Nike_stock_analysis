@@ -15,7 +15,8 @@ Gives basic understanding and the structred process of calculting averages and v
 ## Reporting 
 View the [Tableau viz](https://public.tableau.com/views/NikeStockAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
-
+## CaseStudy report 
+View the [post](https://medium.com/@abiadaikalam/comeback-nike-case-study-on-nike-stock-b8f36debf045) 
 
 
 
